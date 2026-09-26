@@ -2,7 +2,6 @@
 
 An interactive Excel dashboard analyzing Swiggy order data across India, built with PivotTables, PivotCharts, slicers, and a custom-designed dashboard layout.
 
-![Swiggy Sales Dashboard](Swiggy Sales Dashboard.png)
 
 ## 📊 Overview
 
